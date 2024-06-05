@@ -1,0 +1,6 @@
+The 8 queens puzzle is a problem of placing eight different queens of chess on an 8×8 sized chessboard in certain way(s) so that no multiple queens threat each other. This means the requirement of the solution is to making sure that no two queens share the same row, column, or diagonal. There are total 92 possible solutions for this problem. What are those solutions look like? To know that, you have to run my solution c++ codes. In output, you will be able to see 92 chess-boards with chess-queens in correct positions according to the conditions of the problem. The problem was first posed in the mid of the 19th century. I solved this problem using c++ programming language in various structures. The dumb one is a cpp program with worst efficient structure considering time and memory allocation. Then solved with some better structures as well. 
+
+The nQueens problem is similar to the eight queens puzzle. But on this one, user can set the number of queens to be placed. By running my cpp code and setting a number (n), you can see how many possible solutions are there for that problem. 
+
+Happy Coding!
+ - Mubasshir Al Shahriar (Nihal) 
